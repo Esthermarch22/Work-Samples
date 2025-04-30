@@ -1,6 +1,6 @@
 # 📝 Esther Bardhan — Content Leader in an AI-First World
 
-Welcome! I'm Esther Bardhan — a strategic content leader with 14+ years of experience driving editorial excellence across digital, print, and academic media. My work connects brand storytelling with business outcomes, blending SEO, UX, AI, and governance to build editorial ecosystems that scale.
+I am Esther Bardhan — a strategic content leader with 14+ years of experience driving editorial excellence across digital, print, and academic media. My work connects brand storytelling with business outcomes, blending SEO, UX, AI, and governance to build editorial ecosystems that scale.
 
 ---
 
