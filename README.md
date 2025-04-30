@@ -55,7 +55,7 @@ Explore essays, frameworks, and reflections on editorial systems, content govern
 - ✅ **98% compliance** with quality standards across 80+ global experiences
 - 📈 **45% MQL increase** through conversion-focused web content
 - ✏️ **1,000+ academic manuscripts edited** with a 99% journal acceptance rate at Cactus
-- 
+
 ---
 
 ## ✍️ Portfolio Highlights
