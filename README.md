@@ -58,7 +58,9 @@ As a digital content leader, I focus on building systems that enable scale, redu
 - [GP-led Secondaries: Solving the Liquidity Crunch](https://rostrumgrand.com/gp-led-secondaries-solving-the-liquidity-crunch/)
 - *More available on request*
 
-### 🌐 UX & Web Strategy (Led)
+### 🌐 UX Writing & Web Content Strategy
+
+Led UX writing and content strategy for high-impact digital experiences, ensuring clarity, consistency, and conversion alignment across product and marketing surfaces:
 - [Flatworld Solutions](https://www.flatworldsolutions.com/)
 - [Xceedance Whitepapers](https://www.xceedance.com/category/whitepapers/)
 - [ROI by Practus – Case Studies](https://roibypractus.com/success-stories/)
