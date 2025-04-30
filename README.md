@@ -1,5 +1,3 @@
-# Work-Samples
-Repository of previous work as a journalist, editor, and content manager
 # 📝 Esther Bardhan — Content Leader in an AI-First World
 
 Welcome! I'm Esther Bardhan — a strategic content leader with 14+ years of experience driving editorial excellence across digital, print, and academic media. My work connects brand storytelling with business outcomes, blending SEO, UX, AI, and governance to build editorial ecosystems that scale.
@@ -11,10 +9,11 @@ Welcome! I'm Esther Bardhan — a strategic content leader with 14+ years of exp
 I bring a unique blend of cross-industry expertise, from scaling travel content marketplaces to shaping healthcare and finance narratives — and from editing academic manuscripts to leading print editorial teams.
 
 My editorial roots run deep:
-- **Print publishing** at *Infomedia18* and *Netscribes*, where I crafted B2B editorial frameworks and set quality benchmarks. I also oversaw the end-to-end production and design of magazines across sectors including **food processing, retail, automation, manufacturing, supply chain, and logistics**.
-
+- **Print publishing** at *Infomedia18* and *Netscribes*, where I crafted B2B editorial frameworks and set quality benchmarks.  
+  I also oversaw the end-to-end production and design of magazines across sectors including **food processing, retail, automation, manufacturing, supply chain, and logistics**.
 - **Academic editing** at *Cactus Communications*, where I edited over 1,000 manuscripts across public health, nutrition, and economics, achieving a 99% acceptance rate in peer-reviewed journals.
-- **Digital leadership** roles at *Headout*, *Flatworld Solutions*, and *Trivone*, where I led content operations, built high-performance teams, and drove measurable content performance.
+- **Digital leadership** at *Headout*, *Flatworld Solutions*, and *Trivone*, where I led content operations, built high-performance teams, and drove measurable content performance.  
+  I also developed innovative tools like a **custom Word Cloud Tool** for large-scale SEO mapping and a **Supply Readiness Tree** that enabled better validation of content inputs across formats like cruises and guided tours.
 
 ---
 
@@ -28,6 +27,17 @@ My editorial roots run deep:
 - **B2B, SaaS, BFSI, Pharma & Travel Expertise**
 - **Team Mentorship & Learning Culture Building**
 - **CMS, Analytics, and Workflow Tools Proficiency**
+- **Tool Development & Systems Thinking**
+
+---
+
+## 🧠 Digital Leadership & Innovation
+
+As a digital content leader, I focus on building systems that enable scale, reduce ambiguity, and support quality at speed. I combine content strategy with smart tooling and governance to drive outcomes across editorial, SEO, and product teams.
+
+- 🛠️ **Created a Word Cloud Tool** to automate keyword visualizations across multiple product units. This helped identify content focus areas at scale, reduce writer guesswork, and align copy structure with top-ranking search patterns — especially for microbrand SEO strategies.
+- 🌲 **Built a Supply Readiness Tree**, a decision-support system that helped non-editorial teams validate inclusions and exclusions for experience-based products. It introduced logic-based paths tailored for variable formats like cruises and walking tours, enabling better coverage accuracy and fewer errors at handoff.
+- 📐 **Established content strategy and governance standards** that reduced editorial rework, improved tone consistency, and empowered writers to produce high-quality content autonomously. These systems raised compliance to 98%, improved time-to-publish, and supported high-volume delivery across formats.
 
 ---
 
@@ -38,8 +48,7 @@ My editorial roots run deep:
 - ✅ **98% compliance** with quality standards across 80+ global experiences
 - 📈 **45% MQL increase** through conversion-focused web content
 - ✏️ **1,000+ academic manuscripts edited** with a 99% journal acceptance rate at Cactus
-- 📰 **500+ digital articles published** at Instablogs, increasing site traffic by 35%
-
+- 
 ---
 
 ## ✍️ Portfolio Highlights
@@ -64,6 +73,7 @@ My editorial roots run deep:
 **Project & Workflow**: Confluence, JIRA, Notion, Slack, Google Workspace, Coda  
 **CMS & Platforms**: WordPress, Hedwig, Retool  
 **Data & Visualization**: Power BI, Mixpanel  
+**Custom Tools**: Internal Word Cloud Visualizer, Supply Readiness Tree
 
 ---
 
@@ -82,4 +92,3 @@ I lead with empathy for both users and teams — mentoring writers, refining con
 - **LinkedIn**: [linkedin.com/in/estherbardhan](https://www.linkedin.com/in/estherbardhan/)
 
 ---
-
