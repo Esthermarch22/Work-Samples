@@ -40,6 +40,13 @@ As a digital content leader, I focus on building systems that enable scale, redu
 - 📐 **Established content strategy and governance standards** that reduced editorial rework, improved tone consistency, and empowered writers to produce high-quality content autonomously. These systems raised compliance to 98%, improved time-to-publish, and supported high-volume delivery across formats.
 
 ---
+## 🧠 Writing & Thought Leadership
+
+Explore essays, frameworks, and reflections on editorial systems, content governance, and the craft of writing in an AI-first world:
+
+- 📝 [Content and Outcomes – Blog](https://contentandoutcomes.wordpress.com/)
+
+---
 
 ## 🏆 Key Achievements
 
